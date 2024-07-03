@@ -1,0 +1,16 @@
+CONNECTION_LIST: # This is where the program will try to jump(ssh) from one server to another. Pls put necessary details and make sure to have the correct number of jumps
+  - HOST: "" # ip Address
+    USER: # username
+    PASS: # password
+    NAME: # temp name of server (can be any name)
+    KEY: ""
+  # - HOST: ""
+  #   USER: 
+  #   PASS: 
+  #   NAME: jump2
+  #   KEY: ""
+  # - HOST: ""
+  #   USER: 
+  #   PASS: ""
+  #   NAME: jump3
+  #   KEY: ""

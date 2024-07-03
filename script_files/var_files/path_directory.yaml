@@ -1,0 +1,12 @@
+TRANSFER_TO_ENV: 
+  - FILEPATH_TO_PUT: ./files-to-transfer/samplefile.txt # location of the file that will be copied from local directory (local pc)
+    ENV_PATH: /home/user # The Path that will be created and the file to be transferred
+  # - FILEPATH_TO_PUT: ./files-to-transfer/ 
+  #   ENV_PATH:  # You can have multiple inputs
+
+GET_FILE_FROM_ENV: 
+  - FILEPATH_TO_GET: # The location of the file that will be transferred to your Local PC
+    LOCAL_PATH: ./files-to-transfer/ # The destination of the file from the server
+  # - FILEPATH_TO_GET: # You can have multiple inputs
+  #   LOCAL_PATH: ./files-to-transfer/ 
+ 
