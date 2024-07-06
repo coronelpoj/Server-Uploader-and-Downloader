@@ -31,5 +31,5 @@ You should have the means to execute shell scripts. Don't worry, most people can
 Nothing. Just follow the procedure below and execute the shell script normally using the command line of linux
 #
 ### For Windows Users
-Assuming that you have git bash and that you used git bash to get pull this repo, you should also use the git bash to execute the shell script below. 
+Assuming that you have git bash and that you used git bash to git pull this repo, you should also use the git bash to execute the shell script below. 
 If not, just download git bash [here](https://git-scm.com/downloads). WSL, in theory, should work too but I have not tried it personally
