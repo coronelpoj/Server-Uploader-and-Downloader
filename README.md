@@ -1,4 +1,4 @@
-# SERVER UPLOADER DOWNLOADER
+# SERVER UPLOADER AND DOWNLOADER
 #### A program that lets you upload/download files or directories to/from your server/environment with ease
 #
 ### Pre-Requisites
