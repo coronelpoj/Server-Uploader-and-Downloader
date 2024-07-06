@@ -1,6 +1,5 @@
-## SERVER UPLOADER DOWNLOADER
+# SERVER UPLOADER DOWNLOADER
 #### A program that lets you upload/download files or directories to/from your server/environment with ease
-#
 #
 ### Pre-Requisites
 1. Python Installed
@@ -33,3 +32,8 @@ Nothing. Just follow the procedure below and execute the shell script normally u
 ### For Windows Users
 Assuming that you have git bash and that you used git bash to git pull this repo, you should also use the git bash to execute the shell script below. 
 If not, just download git bash [here](https://git-scm.com/downloads). WSL, in theory, should work too but I have not tried it personally
+#
+#
+# Procedure
+
+
