@@ -22,7 +22,10 @@ We will also install the required libraries for Robot Framework in order for the
 pip install robotframework-seleniumlibrary
 pip install robotframework-sshlibrary
 ```
-
+Confirm that all of the libraries have been installed with the command below
+```
+pip list
+```
 ## 3. App that can run shell scripts
 You should have the means to execute shell scripts. Don't worry, most people can do this.
 
